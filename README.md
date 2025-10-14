@@ -1,45 +1,79 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaheer-suhaib&theme=react" width="100%"/>
+</p>
 
-<br />
+<!-- Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shaheer-suhaib.shaheer-suhaib" alt="Visitors Badge"/>
+</p>
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+<!-- Typing Animation Header -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+SHAHEER+SUHAIB+....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-**About me**
+<!-- Social Links -->
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/syed-shaheer-suhaib/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+<!-- About Section -->
+<p align="center">
+  👋 Hi, I'm <b>Shaheer Suhaib</b> — a passionate <b>Computer Engineer & Software Developer</b> from <b>Pakistan</b> 🇵🇰
+  <br><br>
+  💻 I love writing clean, efficient code and exploring new technologies.  
+  <br>
+  📚 Currently learning <b>E-Commerce Website Development with Django</b>.
+  <br>
+  💬 Ask me anything <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues">here</a>.
+  <br>
+  📫 Reach me at: <a href="mailto:osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+</p>
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+---
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+<h2 align="center">🔥 Languages • Frameworks • Tools 🔥</h2>
+<p align="center">
+  <code><img title="C++" height="30" src="images/cpp.svg"></code>
+  <code><img title="Python" height="30" src="images/python-original.svg"></code>
+  <code><img title="JavaScript" height="30" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="React" height="30" src="images/react-original.svg"></code>
+  <code><img title="Git" height="30" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="30" src="images/postgresql.svg"></code>
+  <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
+  <code><img title="Flask" height="30" src="images/flask.png"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
+  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+</p>
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+---
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<p align="center">
+  <a href="https://github.com/shaheer-suhaib">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=shaheer-suhaib&theme=react&border=61dafb&hide_border=true"/>
+  </a>
+  <a href="https://github.com/shaheer-suhaib">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaheer-suhaib&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+  </a>
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+---
 
-#### Top Repositories
+<h2 align="center">📊 Contribution Graph (Last 12 Months)</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaheer-suhaib&theme=react-dark&bg_color=20232a&hide_border=true&area=true&radius=10" width="100%"/>
+</p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+---
