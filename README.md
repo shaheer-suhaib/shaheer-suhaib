@@ -87,3 +87,4 @@
 </p> -->
 
 ---
+![snake gif](https://github.com/shaheer-suhaib/shaheer-suhaib/blob/output/github-snake-dark.svg)
