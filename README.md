@@ -7,7 +7,7 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/syed-shaheer-suhaib/" target="_blank">
+  <a href="https://www.linkedin.com/in/shaheer-suhaib-58782a395/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="25"/>
   </a>
   <!-- <a href="mailto:shaheersuhaib.pk@gmail.com">
