@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student at NUST** (May 2026) and currently working full-time as a **Full Stack Engineer at [Zapply](https://zapply.com)** (US-based, remote).
+I'm a  recent graduate with **Computer Engineering student at NUST** (May 2026) and currently working full-time as a **Full Stack Engineer at [Zapply](https://zapply.com)** (US-based, remote).
 
 I specialize in **full-stack engineering**  and  — from building LangGraph-powered agentic workflows to shipping production React frontend applications. I've worked across the stack: backend APIs, AI pipelines, and desktop tools.
 
