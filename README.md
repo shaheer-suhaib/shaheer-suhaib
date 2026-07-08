@@ -100,4 +100,4 @@ I specialize in **full-stack engineering**  and  — from building LangGraph-pow
 
 ---
 
-![snake gif](https://github.com/shaheer-suhaib/shaheer-suhaib/blob/output/github-snake-dark.svg)
+<!-- ![snake gif](https://github.com/shaheer-suhaib/shaheer-suhaib/blob/output/github-snake-dark.svg) -->
