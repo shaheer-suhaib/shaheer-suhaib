@@ -24,14 +24,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a  recent graduate with **Computer Engineering student at NUST** (May 2026) and currently working full-time as a **Full Stack Engineer at [Zapply](https://zapply.com)** (US-based, remote).
+I'm a   graduate in **Computer Engineering from NUST** and currently working full-time as a **Full Stack Engineer at [Zapply](https://zapply.com)** (US-based, remote).
 
 I specialize in **full-stack engineering**  and  — from building LangGraph-powered agentic workflows to shipping production React frontend applications. I've worked across the stack: backend APIs, AI pipelines, and desktop tools.
 
 - 🔭 Currently building autofill automation @ **Zapply**
-- 🤖 Deeply interested in **LLM agents, AI workflows, and agentic systems**
-- 🏆 **NUST High Achiever Award 2023** | Institution Topper (High School)
-- 🇵🇰 Based in **Islamabad, Pakistan**
+- 🤖 Deeply interested in **LLM agents, AI workflows, and agentic systems & FULL-STACK DEVELOPMENT**
 - 📫 Reach me: **sh5suhaib.pk@gmail.com**
 
 ---
